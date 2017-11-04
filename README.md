@@ -1,20 +1,20 @@
 # Team! (iOS)
 
 ### Overview
-Team! is an idea I had for an app that focuses around the idea of allowing users in a group share their availability, using the built-in calendar, and find available times for the group to meet. This has started as a summer project with two other friends, one who is building the Android counterpart, and the other mainly focusing on the database. Expected finish date: winter break 2017-2018 
+Team! is an idea I had for an app that focuses around the idea of allowing users in a group share their availability, using the built-in calendar, and find available times for the group to meet. This has started as a summer project with two other friends, one who is building the Android counterpart, and the other mainly focusing on the database. Expected finish date: winter break 2017-2018. Color scheme is temporary... 
 
 ### Features (~ indicates that it has not yet been implemented) 
 - Account making function. You can sign up with email, Google, or Facebook 
 - Group making functions (group name, group members, group color, group photo) 
 - Preserve privacy for users using databases 
-- Daily and Monthly Calendar Views 
+- Daily and monthly calendar views
 - To-Do list 
-- Add Friends by username lookup
+- Add friends by username 
 - Friends-list 
 - One-on-one and group chatting ~
 - Find available times for the group ~
 - Make new events ~
-- Have a notes section for each event for situations like a study meeting so that important notes could be saved ~
+- Notes section for each event for situations like a study meeting so that important notes could be saved ~
 
 ### App Screenshots 
 
